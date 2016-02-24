@@ -2,7 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/zbiljic/sizeutil?status.svg)](https://godoc.org/github.com/zbiljic/sizeutil)
 
-This package contains functions for working with byte units:
+This package contains functions for working with byte units in Go (golang):
 
 *   Parses human readable string to byte unit
 *   Converts from one byte unit to another

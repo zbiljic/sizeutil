@@ -1,6 +1,7 @@
 # sizeutil
 
 [![GoDoc](https://godoc.org/github.com/zbiljic/sizeutil?status.svg)](https://godoc.org/github.com/zbiljic/sizeutil)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/zbiljic/sizeutil/master/LICENSE)
 
 This package contains functions for working with byte units in Go (golang):
 
@@ -30,4 +31,4 @@ See the [reference][] for more info.
 
 ---
 
-Copyright © 2016 Nemanja Zbiljić
+Copyright © 2017 Nemanja Zbiljić
